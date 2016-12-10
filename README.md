@@ -5,6 +5,7 @@
 ## Projects
 - bee : Problem A. Lazy Spelling Bee 
 - robot : Problem B. Robot Rock Band
+- Net : Simple Neural Network in Haskell
  
 ## Install accelerate for Haskell under windows
 - Download accelerate and apply patch.accelerate (Proces Id, ...)
